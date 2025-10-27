@@ -48,9 +48,8 @@ The project aimed to build a scalable, transparent, and gas-efficient prediction
 
 🎥 **Project Demonstration**
 
-1. [Fate Protocol Overview & Walkthrough](https://youtu.be/demo-link-placeholder)  
-2. [Creating and Interacting with Pools](https://youtu.be/demo-link-placeholder)  
-3. [User Portfolio and Real-time Market Data](https://youtu.be/demo-link-placeholder) 
+1. [Fate Protocol Overview & Walkthrough](https://drive.google.com/file/d/1JHGfxee_9Yb33tlT0_rH85BZTfZGjxck/view?usp=sharing)  
+2. [Creating and Interacting with Pools](https://drive.google.com/file/d/11tthnlqvWHdJjyYvYsvtZW19fug5N6Pu/view?usp=sharing)  
 
 ---
 
